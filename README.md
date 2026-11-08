@@ -1,5 +1,7 @@
 # KnotesNeo
 
+[![CI](https://github.com/Developer1010x/knotesneo/actions/workflows/ci.yml/badge.svg)](https://github.com/Developer1010x/knotesneo/actions/workflows/ci.yml) [![Link check](https://github.com/Developer1010x/knotesneo/actions/workflows/link-check.yml/badge.svg)](https://github.com/Developer1010x/knotesneo/actions/workflows/link-check.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-2EA44F)](LICENSE) ![TypeScript: site](https://img.shields.io/badge/TypeScript-site-3178C6?logo=typescript&logoColor=white)
+
 Notes, lab manuals and previous-year question papers for RVCE — every
 department, year and semester in one place, and a pipeline that measures how
 fast that material is disappearing.
@@ -178,3 +180,7 @@ Prefer those over raw palette classes so both themes stay correct.
 - Everyone on the [contributors page](https://developer1010x.github.io/KnotesCentral-Source-Code/contributors/)
 
 Previous versions and what changed: [HISTORY.md](HISTORY.md).
+
+---
+
+Built by **S. Prajwall Narayana** · [Portfolio](https://sprajwallnarayana.vercel.app) · [GitHub](https://github.com/Developer1010x)
